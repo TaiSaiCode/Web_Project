@@ -1,0 +1,22 @@
+
+a {
+    margin: 1em;
+}
+
+.details {
+    display: flex;
+}
+
+.details-text {
+    width: 30em;
+}
+
+.details-img > img {
+    width: 400px;
+    height: auto;
+}
+
+.sombre {
+    background-color: black;
+    color:white;
+}
